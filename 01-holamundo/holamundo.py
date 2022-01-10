@@ -1,0 +1,1 @@
+print('hola mundo, soy David Julian desarrollador de Inteligencia de negocios')
